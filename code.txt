@@ -1,1 +1,1 @@
-{"test":null}
+[{"cmd":"set","value":"print Text!","var":"var1"},{"cmd":"call","func":"echo","args":["var1"]}]
